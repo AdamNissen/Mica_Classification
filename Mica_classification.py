@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Making a mica classification plot after Tischendorf et al., (2004, 2006).
+Making a mica classification plot after Tischendorf et al., (1997).
 """
 
 
